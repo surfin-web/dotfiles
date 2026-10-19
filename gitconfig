@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luisponciano@gmail.com
+	name = luis ponciano
